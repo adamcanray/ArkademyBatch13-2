@@ -1,0 +1,1 @@
+SELECT cashier.name as cashier, product.name as product, category.name as category, product.price FROM product INNER JOIN cashier ON product.id_cashier = cashier.id INNER JOIN category ON product.id_category = category.id ORDER BY product.price ASC;
