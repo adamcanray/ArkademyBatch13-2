@@ -68,9 +68,16 @@ cara menjalankan soal 6-B:
 
 Tampilan utama:
 ![huruf besar dan kecil](soal-6/capture/6_b-1.JPG)
+<br/>
+<br/>
 Tampilan ketika button **ADD** ditekan:
 ![huruf besar dan kecil](soal-6/capture/6_b-2.JPG)
+<br/>
+<br/>
 Tampilan ketika button **Edit** ditekan:
 ![huruf besar dan kecil](soal-6/capture/6_b-3.JPG)
+<br/>
+<br/>
 Tampilan ketika button **Delete** ditekan:
 ![huruf besar dan kecil](soal-6/capture/6_b-4.JPG)
+<br/>
