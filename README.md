@@ -81,3 +81,6 @@ Tampilan ketika button **Edit** ditekan:
 Tampilan ketika button **Delete** ditekan:
 ![huruf besar dan kecil](soal-6/capture/6_b-4.JPG)
 <br/>
+
+**Soal 6-C** <br/>
+Baru sampai Read data(Create,Update,Delete belum). belum selesai.
