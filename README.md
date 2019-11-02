@@ -60,3 +60,17 @@ cara menjalankan soal 6-A:
 * dan paste-kan **Query** yang ada pada file **Query.txt**
 * lalu klik **go**, maka tampilannya akan sesuai dengan yang diminta oleh soal
 <br/>
+
+**Soal 6-B** <br/>
+cara menjalankan soal 6-B:
+* hanya jalankan **index.html** pada browser
+* karena masih menggunakan data statis
+
+Tampilan utama:
+![huruf besar dan kecil](soal-6/capture/6_b-1.JPG)
+Tampilan ketika button **ADD** ditekan:
+![huruf besar dan kecil](soal-6/capture/6_b-2.JPG)
+Tampilan ketika button **Edit** ditekan:
+![huruf besar dan kecil](soal-6/capture/6_b-3.JPG)
+Tampilan ketika button **Delete** ditekan:
+![huruf besar dan kecil](soal-6/capture/6_b-4.JPG)
