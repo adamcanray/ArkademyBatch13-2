@@ -13,14 +13,21 @@ cara menjalakan program:
 * jalankan pada console di browser anda
 * atau salin code-nya lalu jalankan(run) diconsole pada website berikut: [es6console.com](https://es6console.com/)
 
-pada fungsi/method **validationForm('adamc','11@ADAM')** - parameter pertama username dan parameter kedua password.
+pada fungsi/method ```validationForm('adamc','11@ADAM')``` - parameter pertama username dan parameter kedua password.
 
 ### Soal 3(3.js)
 cara menjalakan program:
 * jalankan pada console di browser anda
 * atau salin code-nya lalu jalankan(run) diconsole pada website berikut: [es6console.com](https://es6console.com/)
 
-function **randomize()** - menerima sebuah parameter berupa **number**, ketika paramter yang diterima bukan **number** maka function me-return **false**. tetapi jika parameter berupa **number** function mengembalikan array yang panjangnya sesuai dengan argument yang diberikan, isi array berupa angka random. lalu function ini menjumlahkan isi array-nya.
-contoh: **randomize(6)** - Output-nya = array : [1,3,4,2,3,2] sum : 15
+function ```randomize()``` - menerima sebuah parameter berupa **number**, ketika paramter yang diterima bukan **number** maka function me-return **false**. tetapi jika parameter berupa **number** function mengembalikan array yang panjangnya sesuai dengan argument yang diberikan, isi array berupa angka random. lalu function ini menjumlahkan isi array-nya.
+contoh: ```randomize(6)``` - Output-nya = ```array : [1,3,4,2,3,2] sum : 15```
 
 ### Soal 4(4.js)
+cara menjalakan program:
+* jalankan pada console di browser anda
+* atau salin code-nya lalu jalankan(run) diconsole pada website berikut: [es6console.com](https://es6console.com/)
+
+fungsi ```findSame()``` menerima **sebuah** parameter berupa array(yang berisi lebih dari satu string). jika parameter bukan array fungsi tersebut langsung me-return false. tetapi jika parameter yang diterima adalah array maka fungsi ini akan mengecek string-string yang ada didalam array tersebut dimana pengecekan itu dimaksutkan untuk mencari dan mengumpulkan string yang memiliki panjang yang sama dan character yang sesuai(biasa disebut Anagram), lalu mengembalikan hasil string yang anagram.
+
+### Soal 5(5.js)`
