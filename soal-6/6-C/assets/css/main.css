@@ -1,0 +1,98 @@
+.logo-text{
+    font-size: 25px;
+    font-weight: 600;
+}
+.menu{
+    box-shadow: 0px 5px 9px rgba(100,100,100,.3);
+    padding: 0;
+}
+.btn-add{
+    width:190px;
+    background-color: #FF8FB2;
+    box-shadow: 0px 2px 8px rgba(100,100,100,.3);
+    padding: 15px 0px;
+    color: #fff;
+    font-size: 25px;
+    font-weight: 600;
+    border: 0;
+    border-radius: 10px;
+}
+.table{
+    width:100%;
+    text-align: center;
+    box-shadow:0px 0px 15px #E5E5E5;
+    border-radius:20px;
+}
+.tb-head{
+    background: #CECECE;
+    border-radius:20px;
+    font-size: 25px;
+    color:#fff;
+}
+.tb-head th{
+    padding: 20px;
+}
+.tb-body{
+    font-size: 25px;
+}
+.tb-body td{
+    padding: 20px 0px;
+    border:0;
+}
+.action:hover{
+    text-decoration: none;
+}
+/* btn-edit-delete */
+.btn-edit-delete{
+    background: none;
+    border: 0;
+}
+/* add modal */
+.no-border{
+    border: none;
+}
+.border-bot{
+    border-bottom: 2px solid #ddd;
+}
+.placeholder{
+    /* color:#C9B6B6; */
+    font-weight: 600;
+    font-size:25px;
+}
+.modal-title{
+    font-weight: 600;
+    font-size:25px;
+}
+.modal-body-padding{
+    padding: 40px 100px 20px;
+}
+.modal-radius{
+    border-radius:20px;
+    /* background: blue; */
+}
+#sel1, #sel2{
+    background:transparent;
+    /* z-index: 100; */
+    position: relative;
+}
+.select-side{
+    width: 40px;
+    height: 40px;
+    background-image: url("../img/downwards-arrow-key.png");
+    background-size:cover;
+    position: absolute;
+    right: 110px;
+    margin-top: 5px;
+    /* z-index: ; */
+    /* top:150px; */
+    /* display: inline-block; */
+}
+.appearance-none{
+    appearance: none;
+    -moz-appearance: none;
+    -webkit-appearance: none;
+}
+/* untuk input yang menggunakan placeholder */
+/* ::placeholder{
+    color:blue;
+} */
