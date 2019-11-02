@@ -38,3 +38,25 @@ cara menjalakan program:
 fungsi ```ganti_kata()``` pada **5.js** memiliki tugas untuk mengganti **huruf(character)** pada **kata/kalimat** dengan **huruf(character)** baru, contoh: **"purwakarta"** menjadi **"purwokorto"**. fungsi menerima tiga buah parameter(**String**). parameter pertama berupa **kata/kalimat**, parameter kedua adalah **character/huruf** pada parameter pertama yang ingin diganti(contoh: 'a'), dan parameter ketiga sebagai **huruf pengganti**(contoh: 'o').
 
 ### Soal 6(6.js)
+
+yang harus disiapkan untuk menjalankan soal 6:
+* Install Web Server(Xampp,Lamp,Mamp, dll) karena soal-6 membutuhkan web server dan database server.
+* disini menggunakan **Xampp**
+* clone/download repository **ArkademyBatch13-2** simpan di direktori Web Server, contoh: **xampp (C:/xampp/htdocs/)**
+
+**Soal 6-A** <br/>
+pada folder 6-A terdapat file **arkademy_batch_13_2.sql** dan **Query.txt** untuk memunculkan tabel seperti perintah di soal 6-A dari hasil query.
+
+cara menjalankan soal 6-A:
+* buka aplikasi XAMPP
+* arahkan browser ke url **localhost/phpmyadmin**
+* lalu buat database dengan nama **arkademy_batch_13_2**
+* pilih database tersebut
+* setelah itu pergi ke menu **Import**
+* klik **pilih file**, lalu arahkan ke file **arkademy_batch_13_2.sql** pada folder **6-A/**
+* jika sudah klik **go**
+* maka database tadi sudah berisi tabel yang diimport tadi
+* setelah itu masuk ke database tersebut dan klik menu **SQL**
+* dan paste-kan **Query** yang ada pada file **Query.txt**
+* lalu klik **go**, maka tampilannya akan sesuai dengan yang diminta oleh soal
+<br/>
