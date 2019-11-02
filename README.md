@@ -28,6 +28,13 @@ cara menjalakan program:
 * jalankan pada console di browser anda
 * atau salin code-nya lalu jalankan(run) diconsole pada website berikut: [es6console.com](https://es6console.com/)
 
-fungsi ```findSame()``` menerima **sebuah** parameter berupa array(yang berisi lebih dari satu string). jika parameter bukan array fungsi tersebut langsung me-return false. tetapi jika parameter yang diterima adalah array maka fungsi ini akan mengecek string-string yang ada didalam array tersebut dimana pengecekan itu dimaksutkan untuk mencari dan mengumpulkan string yang memiliki panjang yang sama dan character yang sesuai(biasa disebut Anagram), lalu mengembalikan hasil string yang anagram.
+fungsi ```findSame()``` menerima sebuah parameter berupa **array**(yang berisi lebih dari satu string). jika parameter **bukan array** fungsi tersebut langsung me-return **false**. tetapi jika parameter yang diterima **adalah array** maka fungsi ini akan mengecek string-string yang ada didalam array tersebut dimana pengecekan itu dimaksutkan untuk mencari dan mengumpulkan string yang **memiliki panjang yang sama** dan **character yang sesuai**(biasa disebut Anagram), lalu me-return **hasil string yang anagram**.
 
-### Soal 5(5.js)`
+### Soal 5(5.js)
+cara menjalakan program:
+* jalankan pada console di browser anda
+* atau salin code-nya lalu jalankan(run) diconsole pada website berikut: [es6console.com](https://es6console.com/)
+
+fungsi ```ganti_kata()``` pada **5.js** memiliki tugas untuk mengganti **huruf(character)** pada **kata/kalimat** dengan **huruf(character)** baru, contoh: **"purwakarta"** menjadi **"purwokorto"**. fungsi menerima tiga buah parameter(**String**). parameter pertama berupa **kata/kalimat**, parameter kedua adalah **character/huruf** pada parameter pertama yang ingin diganti(contoh: 'a'), dan parameter ketiga sebagai **huruf pengganti**(contoh: 'o').
+
+### Soal 6(6.js)
